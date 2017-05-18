@@ -1,9 +1,7 @@
 # Code Book
 
-> Description of the data in the `tidy_data.txt`
-
-This file containe description of the `tidy_data.txt` file which is a result of the running `run_analysis.R` script.
-Please find the original description of the experimental `sourse data` under this [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+This Code Book containe the description of the `tidy_data.txt` file which is a result of the running `run_analysis.R` script.
+Please find the original description of the experiment and it `sourse data` under this [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 
 ## tidy_data.txt
@@ -58,10 +56,11 @@ Feature is the kind of the data gatherd during the experiment. The name of each 
 
 For example:
 
-`timeDomainGravityAccelerometerMeanX` -> `timeDomain` `Gravity` `Accelerometer` `Mean` `X`
+`timeDomainGravityAccelerometerMeanX` -> `timeDomain` `Gravity` `Accelerometer` `<empty>` `Mean` `X`
 
 or `Mean` function of the `Gravity` raw data (`timeDomain`) from the `Acelerometer` along the axis `X`
 
 
-hope this helpfull :wink:
+
+Hope this helpfull :wink:
 
