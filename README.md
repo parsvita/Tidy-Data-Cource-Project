@@ -14,6 +14,7 @@
 - CodeBook.md - description of the Items in the tidy_data.txt file
 
 > Source Data
+
 Full description of the Sorce Data could be found under the following [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 > What the `run_analysis.R` doing:
@@ -23,6 +24,4 @@ Full description of the Sorce Data could be found under the following [link](htt
 4. Evaluates Averages from the `source data`
 5. Writes the `tidy_data.txt` result file
 
-> EOF
-1
 
